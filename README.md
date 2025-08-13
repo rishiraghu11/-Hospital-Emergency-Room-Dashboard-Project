@@ -1,4 +1,6 @@
 📌 -Hospital-Emergency-Room-Dashboard-Project
+<img width="1104" height="673" alt="image" src="https://github.com/user-attachments/assets/48966289-a00c-48f0-bab3-e3284435168b" />
+
 
 This project contains a complete Hospital Emergency Room Dashboard for analyzing patient admissions, demographics, waiting times, and satisfaction scores. It combines data analysis, Power BI visualizations, and documentation to provide actionable insights into hospital emergency operations.
 The project can help:
